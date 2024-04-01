@@ -1,0 +1,9 @@
+title: Разработка на Рэ
+author_url: 
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "/nare"
+url: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
